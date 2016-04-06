@@ -14,3 +14,8 @@ or use
 pip install requests  
 pip install bs4  
 pip install simplejson
+
+Then you can run the DAI calendar scraper:
+
+cd calendars
+python dai.py
