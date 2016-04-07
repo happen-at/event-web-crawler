@@ -18,4 +18,5 @@ pip install simplejson
 Then you can run the DAI calendar scraper:
 
 cd calendars
+
 python dai.py
